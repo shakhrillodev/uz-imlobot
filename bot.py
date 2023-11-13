@@ -8,7 +8,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from checker import word_check
 import logging
 
-API_TOKEN = '5942153771:AAG0V4-qJ3WXhnmXleOOiAtkBGYGOxsSCXU'
+API_TOKEN = 'YOUR BOT TOKEN'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
